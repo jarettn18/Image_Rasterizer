@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/jaret/source/repos/441/441/2A/proj2_data.h
+
+/mnt/c/Users/jaret/source/repos/441/441/2A/project2A.cxx
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+stdio.h
+-
+stdlib.h
+-
+glm/gtx/string_cast.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+proj2_data.h
+/mnt/c/Users/jaret/source/repos/441/441/2A/proj2_data.h
+

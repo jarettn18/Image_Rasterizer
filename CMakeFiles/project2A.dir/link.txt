@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/project2A.dir/project2A.cxx.o  -o project2A  -lGL -lGLEW /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 
